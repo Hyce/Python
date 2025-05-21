@@ -1,0 +1,26 @@
+[
+  {
+    "prenom": "Alice",
+    "age": 25,
+    "ville": "Paris",
+    "amis": ["Bob", "Clara","Justine"]
+  },
+  {
+    "prenom": "Bob",
+    "age": 30,
+    "ville": "Lyon",
+    "amis": ["Alice","Clara","Justine"]
+  },
+  {
+    "prenom": "Clara",
+    "age": 22,
+    "ville": "Marseille",
+    "amis": ["Alice","Bob"]
+  },
+  {
+    "prenom": "Jonathan",
+    "age": 28,
+    "ville": "Bandol",
+    "amis": ["Dorian"]
+  }
+]

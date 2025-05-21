@@ -1,0 +1,17 @@
+[
+  {
+    "prenom": "Bob",
+    "age": 30,
+    "ville": "Lyon"
+  },
+  {
+    "prenom": "David",
+    "age": 28,
+    "ville": "Bordeaux"
+  },
+  {
+    "prenom": "Emma",
+    "age": 35,
+    "ville": "Nice"
+  }
+]

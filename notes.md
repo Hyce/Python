@@ -1,10 +1,31 @@
 # NOTES.md
 
-- J’ai réussi les exercices sur les fichiers texte et CSV.
-- Demain, je veux un exercice sur les fichiers JSON, ou une variante plus difficile sur les CSV.
-- Je préfère réfléchir avant d’avoir la solution, donc commence par l’énoncé et donne-moi des indices si je bloque.
-- Si tu vois des erreurs fréquentes dans mon code, explique-les-moi simplement.
-- À la fin de la semaine, propose-moi un mini-projet pour mettre en pratique tout ce que j’ai vu.
+## Où j’en suis
+
+- Je maîtrise la lecture et l’écriture de fichiers CSV et JSON en Python.
+- Je sais filtrer, compter, et faire des statistiques simples sur des listes de dictionnaires (CSV/JSON).
+- Je sais gérer les cas particuliers (ex : égalités, listes vides, affichage dynamique).
+- J’ai appris à manipuler des données imbriquées dans des fichiers JSON (ex : liste d’amis pour chaque utilisateur).
+- Je sais afficher des résultats formatés, gérer le singulier/pluriel, et utiliser les opérateurs logiques correctement.
+
+## Où on s’est arrêté
+
+- Dernier exercice : trouver la/les personne(s) ayant le plus d’amis dans un fichier JSON avec des listes imbriquées.
+- J’ai bien compris la logique pour trouver un record, réinitialiser une liste de meilleurs, et afficher le résultat proprement.
+
+## Pour demain
+
+- Je veux commencer par un exercice du même type que le dernier (statistiques avancées sur des données imbriquées JSON, par exemple : trouver la personne qui a le moins d’amis, ou la moyenne d’amis par utilisateur).
+- Ensuite, je souhaite passer à un mini-projet pour mettre en pratique tout ce que j’ai appris (proposition à faire selon mon niveau).
+
+---
+
+**Rappel pour l’IA** :  
+- Ne donne pas la solution tout de suite, commence par l’énoncé et des indices si besoin.
+- Si je bloque, explique-moi les points clés de façon littéraire et imagée.
+- À la fin de la semaine, propose-moi un mini-projet pour consolider mes acquis.
+
+
 
 
 Bonjour, voici mon repo GitHub : https://github.com/Hyce/Python
@@ -37,3 +58,4 @@ Utilisation de bibliothèques comme Scikit-learn, TensorFlow, ou PyTorch (si tu 
 
 6. Versioning et collaboration
 Apprendre à utiliser Git pour gérer ton code et collaborer efficacement.
+
