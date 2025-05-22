@@ -1,17 +1,7 @@
 [
-  {
-    "prenom": "Bob",
-    "age": 30,
-    "ville": "Lyon"
-  },
-  {
-    "prenom": "David",
-    "age": 28,
-    "ville": "Bordeaux"
-  },
-  {
-    "prenom": "Emma",
-    "age": 35,
-    "ville": "Nice"
-  }
+  {"prenom": "Alice", "age": 25, "ville": "Paris"},
+  {"prenom": "Bob", "age": 30, "ville": "Lyon"},
+  {"prenom": "Clara", "age": 22, "ville": "Marseille"},
+  {"prenom": "David", "age": 28, "ville": "Bordeaux"},
+  {"prenom": "Emma", "age": 35, "ville": "Nice"}
 ]

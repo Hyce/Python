@@ -1,0 +1,6 @@
+[
+  {"nom": "Clavier", "prix": 29.99, "stock": 15},
+  {"nom": "Souris", "prix": 19.99, "stock": 50},
+  {"nom": "Écran", "prix": 159.99, "stock": 10},
+  {"nom": "Webcam", "prix": 19.99, "stock": 5}
+]

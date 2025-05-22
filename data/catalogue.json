@@ -1,0 +1,38 @@
+[
+  {
+    "nom": "Clavier",
+    "prix": 29.99,
+    "stock": 15,
+    "categorie": "Informatique"
+  },
+  {
+    "nom": "Souris",
+    "prix": 19.99,
+    "stock": 50,
+    "categorie": "Informatique"
+  },
+  {
+    "nom": "Écran",
+    "prix": 159.99,
+    "stock": 10,
+    "categorie": "Informatique"
+  },
+  {
+    "nom": "Webcam",
+    "prix": 19.99,
+    "stock": 5,
+    "categorie": "Accessoires"
+  },
+  {
+    "nom": "Casque",
+    "prix": 685645.0,
+    "stock": 20,
+    "categorie": "Audio"
+  },
+  {
+    "nom": "Téléphone",
+    "prix": 650.0,
+    "stock": 1200,
+    "categorie": "Ecrans"
+  }
+]
