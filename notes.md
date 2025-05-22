@@ -1,29 +1,34 @@
-# NOTES.md
+# NOTES MINI-PROJET CATALOGUE
 
 ## Où j’en suis
 
-- Je maîtrise la lecture et l’écriture de fichiers CSV et JSON en Python.
-- Je sais filtrer, compter, et faire des statistiques simples sur des listes de dictionnaires (CSV/JSON).
-- Je sais gérer les cas particuliers (ex : égalités, listes vides, affichage dynamique).
-- J’ai appris à manipuler des données imbriquées dans des fichiers JSON (ex : liste d’amis pour chaque utilisateur).
-- Je sais afficher des résultats formatés, gérer le singulier/pluriel, et utiliser les opérateurs logiques correctement.
+- Je sais lire, parcourir et filtrer un catalogue au format JSON.
+- Je sais ajouter un nouveau produit au catalogue et sauvegarder le fichier.
+- Je sais exporter le catalogue au format CSV.
+- J’ai commencé à travailler sur la modification d’un produit existant (changer prix, stock, etc.).
 
-## Où on s’est arrêté
+## Point à retravailler
 
-- Dernier exercice : trouver la/les personne(s) ayant le plus d’amis dans un fichier JSON avec des listes imbriquées.
-- J’ai bien compris la logique pour trouver un record, réinitialiser une liste de meilleurs, et afficher le résultat proprement.
+- Je n’ai pas encore bien maîtrisé la partie modification d’un produit :
+  - Identifier précisément l’article à modifier
+  - Modifier la bonne valeur (prix, stock, etc.) sans se tromper d’article
+  - Gérer les conversions de types (float/int)
+  - Sauvegarder et exporter uniquement après modification
 
-## Pour demain
+## Pour la prochaine fois
 
-- Je veux commencer par un exercice du même type que le dernier (statistiques avancées sur des données imbriquées JSON, par exemple : trouver la personne qui a le moins d’amis, ou la moyenne d’amis par utilisateur).
-- Ensuite, je souhaite passer à un mini-projet pour mettre en pratique tout ce que j’ai appris (proposition à faire selon mon niveau).
+- Reprendre tranquillement l’exercice de modification d’un produit :
+  - Revoir la logique pas à pas
+  - Faire des tests simples (modifier juste le prix, puis le stock…)
+  - Bien comprendre où et quand on parcourt la liste, et où on modifie
+- Si besoin, demander une explication ou un exemple ciblé sur la gestion de la modification dans une liste de dictionnaires
+- Quand ce sera maîtrisé, continuer vers la suppression d’un produit ou l’ajout d’un menu interactif
 
 ---
 
-**Rappel pour l’IA** :  
-- Ne donne pas la solution tout de suite, commence par l’énoncé et des indices si besoin.
-- Si je bloque, explique-moi les points clés de façon littéraire et imagée.
-- À la fin de la semaine, propose-moi un mini-projet pour consolider mes acquis.
+**Rappel pour l’IA** :  
+Commencer par un petit rappel/exercice guidé sur la modification d’un produit dans une liste de dictionnaires, avec explications pas à pas.  
+Ne pas aller trop vite sur les étapes suivantes tant que ce point n’est pas bien compris.
 
 
 
